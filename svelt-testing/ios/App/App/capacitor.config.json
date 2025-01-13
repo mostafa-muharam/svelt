@@ -1,0 +1,9 @@
+{
+	"appId": "alfamedicalgroup.com",
+	"appName": "svelt-testing",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"packageClassList": [
+		"CAPCameraPlugin"
+	]
+}
