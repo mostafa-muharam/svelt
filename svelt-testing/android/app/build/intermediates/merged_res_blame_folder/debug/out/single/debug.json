@@ -32,16 +32,16 @@
         "source": "alfamedicalgroup.com.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-port-xxhdpi_splash.png.flat",
-        "source": "alfamedicalgroup.com.app-main-6:/drawable-port-xxhdpi/splash.png"
-    },
-    {
         "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-land-hdpi_splash.png.flat",
         "source": "alfamedicalgroup.com.app-main-6:/drawable-land-hdpi/splash.png"
     },
     {
         "merged": "alfamedicalgroup.com.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "alfamedicalgroup.com.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-port-xxhdpi_splash.png.flat",
+        "source": "alfamedicalgroup.com.app-main-6:/drawable-port-xxhdpi/splash.png"
     },
     {
         "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-land-xxhdpi_splash.png.flat",
@@ -60,12 +60,12 @@
         "source": "alfamedicalgroup.com.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-land-xxxhdpi_splash.png.flat",
-        "source": "alfamedicalgroup.com.app-main-6:/drawable-land-xxxhdpi/splash.png"
-    },
-    {
         "merged": "alfamedicalgroup.com.app-merged_res-4:/xml_config.xml.flat",
         "source": "alfamedicalgroup.com.app-main-6:/xml/config.xml"
+    },
+    {
+        "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-land-xxxhdpi_splash.png.flat",
+        "source": "alfamedicalgroup.com.app-main-6:/drawable-land-xxxhdpi/splash.png"
     },
     {
         "merged": "alfamedicalgroup.com.app-merged_res-4:/drawable-port-xhdpi_splash.png.flat",

@@ -1,6 +1,5 @@
 {
 	"appId": "alfamedicalgroup.com",
 	"appName": "svelt-testing",
-	"webDir": "build",
-	"bundledWebRuntime": false
+	"webDir": "build"
 }

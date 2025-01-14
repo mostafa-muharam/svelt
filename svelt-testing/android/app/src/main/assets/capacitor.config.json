@@ -2,5 +2,12 @@
 	"appId": "alfamedicalgroup.com",
 	"appName": "svelt-testing",
 	"webDir": "build",
-	"bundledWebRuntime": false
+	"server": {
+		"cleartext":true,
+		"androidScheme":"http",
+		"hostname":"localhost:8080",
+		"allowNavigation": [
+			"http://localhost:8080/api/hello"
+		  ]
+	  }
 }
